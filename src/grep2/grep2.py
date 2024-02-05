@@ -3,3 +3,7 @@ __all__ = [
 ]
 
 import gpts
+
+
+def grep2():
+    pass
