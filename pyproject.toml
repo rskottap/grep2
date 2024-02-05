@@ -16,5 +16,5 @@ develop = [
 ]
 
 [project.urls]
-source = "https://github.com/notarealdeveloper/grep2"
+source = "https://github.com/rskottap/grep2"
 download = "https://pypi.org/project/grep2/#files"
